@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SustainableSmarts</string>
+    <string name="main_about_us_message">
+    The goal with this app is to provide
+    its users with another means of measuring electricity. A fresh idea that hopes to bridge the gap of
+    good old ignorance to an energy people are familiar with. We felt that if we can give users
+    an idea of the average physical activity they would have to perform to generate the same
+    power as our everyday appliances, we might give them a shock. Pun intended..!
+    With the end goal making them more aware and conscious of power they might be wasting.
+    We have created a quiz to see if peoples judgement of power usage is as accurate as
+    they might think and if not hopefully our app can help align the two. With continued dedication we hope to
+    incorporate more ideas and functionality.
+
+    Eric Cassells        ecassells711@gmail.com
+    Johnny Creighton     johnnycreighton1988@gmail.com
+
+    johneric!</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+
+    <string name="completed_quiz">Congratulations you have completed the quiz.\n Your result is:</string>
+</resources>
